@@ -1,0 +1,67 @@
+/* Your styles here */
+* {
+  box-sizing: border-b0x;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 100%;
+}
+
+.logo {
+  background-color: #222f3e;
+}
+.logo img {
+  width: 90px;
+}
+.sottologo {
+  background-color: #304155;
+}
+.sottologo p a {
+  color: white;
+  font-size: small;
+}
+.section3 {
+  background-color: orangered;
+  text-align: center;
+  color: white;
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+header {
+  background-image: url(../images/bg-image.png);
+  text-align: center;
+  color: white;
+  padding: 75px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+  font-size: medium;
+}
+
+h3 {
+  font-size: medium;
+}
+
+h4 {
+  margin-top: 18px;
+}
+
+.images {
+  display: inline-flex;
+  width: 50%;
+}
+.contenuto1 img {
+  display: block;
+  text-align: center;
+  margin-inline: 3rem;
+  margin-top: 2, 5rem;
+}
+.contenuto2 img {
+  display: block;
+  text-align: center;
+  margin-inline: 3rem;
+  margin-top: 2, 5rem;
+}
